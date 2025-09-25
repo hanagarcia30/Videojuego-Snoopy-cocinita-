@@ -1,2 +1,2 @@
-![Pantalla de inicio](img/inicio.png)]
+![Pantalla de inicio](img/5.png)]
 
