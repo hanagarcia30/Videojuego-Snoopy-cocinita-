@@ -1,2 +1,2 @@
-[![Play](images/inicio.png)](juego.py)
+![Pantalla de inicio](img/inicio.png)]
 
